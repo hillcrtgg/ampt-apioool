@@ -13,6 +13,7 @@
     "nanoid": "^4.0.1"
   },
   "ampt": {
-    "app": "ampt-api"
+    "app": "ampt-apioool",
+    "org": "hillcrtgrcarr270538"
   }
 }
